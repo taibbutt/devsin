@@ -92,7 +92,7 @@ const ProductDetails = ({ params }) => {
                     selectedImage === img ? "border-[#00B207] border" : ""
                   }`}
                   src={img}
-                  alt=""
+                  alt="hhhh"
                   width={70}
                   height={70}
                   onClick={() => setSelectedImage(img)}

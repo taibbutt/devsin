@@ -18,6 +18,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/FreshFruit.png"}
+            alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Fresh Fruit</p>
         </div>
@@ -27,6 +28,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/FreshVegetables.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Fresh Vegetables</p>
         </div>
@@ -36,6 +38,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/MeatFish.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Meat & Fish</p>
         </div>
@@ -45,6 +48,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/Snacks.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Snacks</p>
         </div>
@@ -63,6 +67,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/BeautyHealth.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Beauty & Health</p>
         </div>
@@ -72,6 +77,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/BreadBakery.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Bread & Bakery</p>
         </div>
@@ -81,6 +87,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/BakingNeeds.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Baking Needs</p>
         </div>
@@ -90,6 +97,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/Cooking.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Cooking</p>
         </div>
@@ -99,6 +107,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/DiabeticFood.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Diabetic Food</p>
         </div>
@@ -108,6 +117,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/DishDetergents.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Dish Detergents</p>
         </div>
@@ -117,6 +127,7 @@ const Category = () => {
             width={100}
             height={100}
             src={"/Images/Oil.png"}
+             alt="view"
           ></Image>
           <p className="font-medium text-sm lg:text-base">Oil</p>
         </div>

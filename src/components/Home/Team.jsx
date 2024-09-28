@@ -27,6 +27,7 @@ export const Team = () => {
                 width={246}
                 height={246}
                 src={"/Images/farmer.jpg"}
+                 alt="view"
               />
             </div>
 
@@ -71,6 +72,7 @@ export const Team = () => {
                 width={246}
                 height={246}
                 src={"/Images/farmer4.jpg"}
+                 alt="view"
               />
             </div>
 
@@ -93,6 +95,7 @@ export const Team = () => {
                 width={246}
                 height={246}
                 src={"/Images/farmer.jpg"}
+                 alt="view"
               />
             </div>
 
